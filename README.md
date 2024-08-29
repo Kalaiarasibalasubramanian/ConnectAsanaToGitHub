@@ -1,4 +1,4 @@
-Here's an example of a `README.md` file for your GitHub-Asana integration project:
+
 
 ```markdown
 # GitHub-Asana Integration Service
